@@ -1,4 +1,4 @@
 # CRUDCodeReview
-Simple CRUD Web\n
-username : admin1\n
+Simple CRUD Web
+username : admin1
 password : admin1
